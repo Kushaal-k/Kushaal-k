@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kushaal Kankane
 - 👀 I’m interested in Game Development
 - ❤️ I have learned - C, HTML, CSS
-- 🌱 I’m currently learning - Phyton, C++ and Blender
+- 🌱 I’m currently learning - Java, C++ and Blender
 - 💞️ I’m looking to collaborate on some open source project
 - 📫 Reach me on kushaalkankane12345@gmail.com 
 
