@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%7C+C%2B%2B+Developer;Computer+Science+Student;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineer+%7C+C%2B%2B+Developer;Computer+Science+Student;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ class Kushaal:
 ![Game Design](https://img.shields.io/badge/Game%20Design-Learning-FF0000?style=for-the-badge&logo=unity&logoColor=white)
 </div>
 
-## 🎮 Featured Projects
+<!--## 🎮 Featured Projects
 
 ### 🏦 Secure Banking System
 <img src="https://img.shields.io/badge/C++-17-00599C?style=flat-square&logo=cplusplus" /> <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql" />
@@ -68,7 +68,8 @@ class Kushaal:
 - ⚡ Custom movement system
 - 🔧 Blueprint & C++ integration
 - 📽️ [Watch Gameplay](https://drive.google.com/file/d/15-kNb9N62CbTvFhia98TRj9OpWpD2D_W/view?usp=sharing)
-- 💻 [Source Code](https://drive.google.com/file/d/1c4iYRQfKjWzwWVs8paMGXSgG_YoMq9FR/view?usp=sharing)
+- 💻 [Source Code](https://drive.google.com/file/d/1c4iYRQfKjWzwWVs8paMGXSgG_YoMq9FR/view?usp=sharing)/>
+-->
 
 ## 📈 GitHub Stats
 
